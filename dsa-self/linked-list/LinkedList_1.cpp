@@ -37,7 +37,52 @@ public:
 
     void insertAtend(int data)
     {
-        Node *temp = new Node(data);
+        Node *newNode = new Node();
+        newNode->data = data;
+        newNode->next = NULL;
+
+        if (!head)
+        {
+            head = newNode;
+            return;
+        }
+        Node *temp = head;
+        while (temp->next)
+        {
+            temp = temp->next;
+        }
+        temp->next = newNode;
+    }
+
+    void insertAtPosition(int value, int pos)
+    {
+        if (pos < 1)
+        {
+            cout << "Position should be >= 1.\n";
+            return;
+        }
+        if (pos == 1)
+        {
+            insertAtBeg(value);
+        }
+        Node *newNode = new Node();
+        newNode->data = value;
+
+        Node *temp = head;
+        for (int i = 1; i < pos - 1 && temp; ++i)
+        {
+            temp = temp->next;
+        }
+
+        if (!temp)
+        {
+            cout << "Position out of range." << endl;
+            delete newNode;
+            return;
+        }
+
+        newNode->next = temp->next;
+        temp->next = newNode;
     }
 
     void insertAtHead(int data)
