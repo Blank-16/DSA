@@ -25,33 +25,93 @@ class linkedList
     Node *head;
 
 public:
-    linkedList() : head(NULL) {};
+    linkedList()
+    {
+        this->head = nullptr;
+    };
 
     void insertAtBeg(int data)
     {
         Node *temp = new Node(data);
-        temp->data = data;
         temp->next = head;
         head = temp;
     }
 
     void insertAtend(int data)
     {
-        Node *newNode = new Node();
-        newNode->data = data;
-        newNode->next = NULL;
+        Node *newNode = new Node(data);
 
-        if (!head)
+        if (head == nullptr)
         {
             head = newNode;
             return;
         }
         Node *temp = head;
-        while (temp->next)
+        while (temp->next != nullptr)
         {
             temp = temp->next;
         }
         temp->next = newNode;
+    }
+
+    void deleteAtBeg()
+    {
+        if (head == nullptr)
+        {
+            return;
+        }
+        Node *temp = head;
+        head = head->next;
+        delete temp;
+    }
+
+    void deleteAtend()
+    {
+        if (head == nullptr)
+        {
+            return;
+        }
+        if (head->next == nullptr)
+        {
+            delete head;
+            head = nullptr;
+            return;
+        }
+        Node *temp = head;
+        while (temp->next->next != nullptr)
+        {
+            temp = temp->next;
+        }
+        delete temp->next;
+        temp->next = nullptr;
+    }
+
+    Node *insertatPos(Node *head, int pos, int data)
+    {
+        if (pos < 1)
+        {
+            return head;
+        }
+        if (pos == 1)
+        {
+            Node *newNode = new Node(data);
+            newNode->next = head;
+            return newNode;
+        }
+        Node *curr = head;
+        for (int i = 1; i < pos - 1 && curr != nullptr; i++)
+        {
+            curr = curr->next;
+        }
+        if (curr == nullptr)
+        {
+            return head;
+        }
+        Node *temp = new Node(data);
+        temp->next = curr->next;
+        curr->next = temp;
+
+        return head;
     }
 
     void insertAtPosition(int value, int pos)
@@ -117,14 +177,17 @@ int main()
 {
     linkedList list;
 
-    // Inserting nodes
+    int n;
+    cout << "Enter total list elements: ";
+    cin >> n;
 
-    list.insertAtBeg(5);
-    list.insertAtBeg(4);
-    list.insertAtBeg(3);
-    list.insertAtBeg(2);
-    list.insertAtBeg(1);
-
+    for (int i = 0; i < n; i++)
+    {
+        int data;
+        cout << "Enter element no. " << i + 1 << " : ";
+        cin >> data;
+        list.insertAtBeg(data);
+    }
     cout << "Elements of the list are: ";
 
     list.printLinkedList();
