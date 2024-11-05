@@ -98,18 +98,20 @@ public:
             newNode->next = head;
             return newNode;
         }
-        Node *curr = head;
-        for (int i = 1; i < pos - 1 && curr != nullptr; i++)
+        Node *temp = head;
+        for (int i = 1; i < pos - 1 && temp != nullptr; i++)
         {
-            curr = curr->next;
+            temp = temp->next;
         }
-        if (curr == nullptr)
+        if (temp == nullptr)
         {
+            delete temp;
+            cout << "Position out of range\n";
             return head;
         }
-        Node *temp = new Node(data);
-        temp->next = curr->next;
-        curr->next = temp;
+        Node *newNode = new Node(data);
+        newNode->next = temp->next;
+        temp->next = temp;
 
         return head;
     }
