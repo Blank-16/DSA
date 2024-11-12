@@ -59,6 +59,15 @@ int deleteMax()
         if (heap[current])
         {
             // left to complete
+            if (heap[current] < heap[maxChild])
+            {
+                swap(heap[current], heap[maxChild]);
+                current = maxChild;
+            }
+            else
+            {
+                break;
+            }
         }
     }
 }
