@@ -15,6 +15,7 @@ int linearSearch(int arr[], int n, int key)
     }
     return -1;
 }
+
 int findme(int target, int start, int end, int arr[])
 {
     if (start > end)
@@ -35,6 +36,7 @@ int findme(int target, int start, int end, int arr[])
         return findme(target, middle + 1, end, arr);
     }
 }
+
 int binarySearch(int arr[], int n, int key)
 {
     // Type your code here
