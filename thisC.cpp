@@ -1,14 +1,25 @@
-using namespace std;
 #include <iostream>
 #include <vector>
+#include <unordered_map>
+using namespace std;
 int main() {
+    
+       unordered_map<int, int> mp;
+       vector<int> nums = { -3, 0, 1, -3, 1, 1, 1, -3, 10, 0 };
 
-     int n[100];
-     fill(n, n + 100, 12);
-     
-     for(int a: n) {
-            cout << a << " ";
-     }
+       for(int n: nums) mp[n]++;
 
-    return 0;
+       for(auto it: mp) {
+              cout << it.second;
+       }
+
+       cout << endl;
+       vector<int> ans;
+       for(auto it: mp) {
+              ans.push_back(it.second);
+       }
+        for(int i = 0; i < ans.size() - 1; i++) {
+              if(ans[i] == ans[i+1]) return false;
+        }      
+        return true;
 }

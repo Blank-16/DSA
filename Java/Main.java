@@ -365,6 +365,7 @@ public class Main {
 import java.util.Arrays;
 import java.util.HashMap;
 import java.util.Scanner;
+import java.util.Map;
 
 public class prac{
 
@@ -603,3 +604,287 @@ class DateValidator {
     } 
      
 } 
+
+// Class 1: Basic generic method example
+class GenericUtility {
+    // A generic method to print any type of array
+    public <T> void printArray(T[] array) {
+        for (T element : array) {
+            System.out.print(element + " ");
+        }
+        System.out.println();
+    }
+    
+    // A generic method that returns the same type as its input
+    public <T> T getMiddleElement(T[] array) {
+        if (array == null || array.length == 0) {
+            return null;
+        }
+        return array[array.length / 2];
+    }
+}
+
+// Class 2: Generic method with multiple type parameters
+class PairProcessor {
+    // Method with two type parameters
+    public <K, V> void printPair(K key, V value) {
+        System.out.println("Key: " + key + ", Value: " + value);
+    }
+    
+    // Method that returns a map with generic key and value types
+    public <K, V> Map<K, V> createMap(K[] keys, V[] values) {
+        if (keys.length != values.length) {
+            throw new IllegalArgumentException("Arrays must be of the same length");
+        }
+        
+        Map<K, V> map = new HashMap<>();
+        for (int i = 0; i < keys.length; i++) {
+            map.put(keys[i], values[i]);
+        }
+        return map;
+    }
+}
+
+// Class 3: Generic method with bounded type parameters
+class NumberOperations {
+    // Method that accepts any Number type (Integer, Double, etc.)
+    public <T extends Number> double sumArray(T[] numbers) {
+        double sum = 0.0;
+        for (T number : numbers) {
+            sum += number.doubleValue();
+        }
+        return sum;
+    }
+    
+    // Method with multiple bounds (T must be both a Number and Comparable)
+    public <T extends Number & Comparable<T>> T findMax(T[] numbers) {
+        if (numbers == null || numbers.length == 0) {
+            return null;
+        }
+        
+        T max = numbers[0];
+        for (int i = 1; i < numbers.length; i++) {
+            if (numbers[i].compareTo(max) > 0) {
+                max = numbers[i];
+            }
+        }
+        return max;
+    }
+class GenericUtility {
+    public <T> void printArray(T[] array) {
+        for (T element : array) {
+            System.out.print(element + " ");
+        }
+        System.out.println();
+    }
+    
+    public <T> T getMiddleElement(T[] array) {
+        if (array == null || array.length == 0) {
+            return null;
+        }
+        return array[array.length / 2];
+    }
+    
+    public <T> T getFirstElement(T[] array) {
+        if (array == null || array.length == 0) {
+            return null;
+        }
+        return array[0];
+    }
+    
+    public <T> T getLastElement(T[] array) {
+        if (array == null || array.length == 0) {
+            return null;
+        }
+        return array[array.length - 1];
+    }
+    
+    public <T> void swapElements(T[] array, int i, int j) {
+        if (array == null || i < 0 || j < 0 || i >= array.length || j >= array.length) {
+            return;
+        }
+        T temp = array[i];
+        array[i] = array[j];
+        array[j] = temp;
+    }
+    
+    public <T> T[] reverseArray(T[] array) {
+        if (array == null) {
+            return null;
+        }
+        for (int i = 0; i < array.length / 2; i++) {
+            swapElements(array, i, array.length - i - 1);
+        }
+        return array;
+    }
+}
+
+class PairProcessor {
+    public <K, V> void printPair(K key, V value) {
+        System.out.println("Key: " + key + ", Value: " + value);
+    }
+    
+    public <K, V> Map<K, V> createMap(K[] keys, V[] values) {
+        if (keys.length != values.length) {
+            throw new IllegalArgumentException("Arrays must be of the same length");
+        }
+        
+        Map<K, V> map = new HashMap<>();
+        for (int i = 0; i < keys.length; i++) {
+            map.put(keys[i], values[i]);
+        }
+        return map;
+    }
+    
+    public <K, V> Map<V, K> invertMap(Map<K, V> map) {
+        Map<V, K> inverted = new HashMap<>();
+        for (Map.Entry<K, V> entry : map.entrySet()) {
+            inverted.put(entry.getValue(), entry.getKey());
+        }
+        return inverted;
+    }
+    
+    public <K, V> List<K> getKeysByValue(Map<K, V> map, V value) {
+        List<K> keys = new ArrayList<>();
+        for (Map.Entry<K, V> entry : map.entrySet()) {
+            if (Objects.equals(value, entry.getValue())) {
+                keys.add(entry.getKey());
+            }
+        }
+        return keys;
+    }
+    
+    public <T> Pair<T, T> createPair(T first, T second) {
+        return new Pair<>(first, second);
+    }
+    
+    public static class Pair<A, B> {
+        private A first;
+        private B second;
+        
+        public Pair(A first, B second) {
+            this.first = first;
+            this.second = second;
+        }
+        
+        public A getFirst() { return first; }
+        public B getSecond() { return second; }
+        public void setFirst(A first) { this.first = first; }
+        public void setSecond(B second) { this.second = second; }
+        
+        @Override
+        public String toString() {
+            return "(" + first + ", " + second + ")";
+        }
+    }
+}
+
+class NumberOperations {
+    public <T extends Number> double sumArray(T[] numbers) {
+        double sum = 0.0;
+        for (T number : numbers) {
+            sum += number.doubleValue();
+        }
+        return sum;
+    }
+    
+    public <T extends Number & Comparable<T>> T findMax(T[] numbers) {
+        if (numbers == null || numbers.length == 0) {
+            return null;
+        }
+        
+        T max = numbers[0];
+        for (int i = 1; i < numbers.length; i++) {
+            if (numbers[i].compareTo(max) > 0) {
+                max = numbers[i];
+            }
+        }
+        return max;
+    }
+    
+    public <T extends Number & Comparable<T>> T findMin(T[] numbers) {
+        if (numbers == null || numbers.length == 0) {
+            return null;
+        }
+        
+        T min = numbers[0];
+        for (int i = 1; i < numbers.length; i++) {
+            if (numbers[i].compareTo(min) < 0) {
+                min = numbers[i];
+            }
+        }
+        return min;
+    }
+    
+    public <T extends Number> double average(T[] numbers) {
+        if (numbers == null || numbers.length == 0) {
+            throw new IllegalArgumentException("Array cannot be empty");
+        }
+        return sumArray(numbers) / numbers.length;
+    }
+    
+    public <T extends Number> T[] sortNumbers(T[] numbers) {
+        Arrays.sort(numbers, (a, b) -> Double.compare(a.doubleValue(), b.doubleValue()));
+        return numbers;
+    }
+    
+    public <T extends Number> boolean isAllPositive(List<T> numbers) {
+        return numbers.stream().allMatch(n -> n.doubleValue() > 0);
+    }
+}
+
+class GenericStack<T> {
+    private ArrayList<T> elements = new ArrayList<>();
+    
+    public void push(T item) {
+        elements.add(item);
+    }
+    
+    public T pop() {
+        if (isEmpty()) {
+            throw new EmptyStackException();
+        }
+        return elements.remove(elements.size() - 1);
+    }
+    
+    public T peek() {
+        if (isEmpty()) {
+            throw new EmptyStackException();
+        }
+        return elements.get(elements.size() - 1);
+    }
+    
+    public boolean isEmpty() {
+        return elements.isEmpty();
+    }
+    
+    public int size() {
+        return elements.size();
+    }
+}
+
+
+class Animal {
+    void sound() {
+        System.out.println("Animal makes a sound");
+    }
+}
+class Dog extends Animal {
+    void sound() {
+        System.out.println("Dog barks");
+    }
+}
+class Cat extends Animal {
+    void sound() {
+        System.out.println("Cat meows");
+    }
+}
+class AnimalSoundDemo {
+    public static void main(String[] args) {
+        Animal myDog = new Dog();
+        Animal myCat = new Cat();
+        
+        myDog.sound(); 
+        myCat.sound(); 
+    }
+}
