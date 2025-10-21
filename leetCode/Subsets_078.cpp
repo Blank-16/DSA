@@ -27,3 +27,33 @@ vector<vector<int>> subsets(vector<int> &nums)
     solve(nums, output, index, ans);
     return ans;
 }
+
+
+// using bits instead of recursion 
+
+vector<vector<int>> subset(vector<int> &nums)
+{
+    vector<vector<int>> ans;
+    int n = nums.size();
+    int totalSubsets = 1 << n; // 2^n subsets
+    
+    // Iterate through all possible subsets (0 to 2^n - 1)
+    for(int mask = 0; mask < totalSubsets; mask++)
+    {
+        vector<int> subset;
+        
+        // Check each bit position
+        for(int i = 0; i < n; i++)
+        {
+            // If ith bit is set in mask, include nums[i]
+            if(mask & (1 << i))
+            {
+                subset.push_back(nums[i]);
+            }
+        }
+        
+        ans.push_back(subset);
+    }
+    
+    return ans;
+}
