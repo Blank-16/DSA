@@ -26,3 +26,59 @@ public:
         return false;
     }
 };
+
+class Solution2 {
+public:
+    bool isPalindrome(string s) {
+        vector<int> temp;
+        for(char c : s)
+        {
+            if(isalnum(c))
+            {
+                temp.push_back(tolower(c));
+            }
+        }
+        int left = 0, right = temp.size() - 1;
+
+        while(left < right) {
+            if(temp[left] == temp[right]){
+                left++; 
+                right--;
+            }else {
+                return false;
+            }
+        }
+        return true;
+    }
+};
+
+class OPT
+{
+public:
+    bool isPalindrome(string s)
+    {
+        int left = 0, right = s.size() - 1;
+
+        while (left < right)
+        {
+            while (left < right && !isalnum(static_cast<unsigned char>(s[left])))
+            {
+                left++;
+            }
+            while (left < right && !isalnum(static_cast<unsigned char>(s[right])))
+            {
+                right--;
+            }
+
+            if (tolower(static_cast<unsigned char>(s[left])) !=
+                tolower(static_cast<unsigned char>(s[right])))
+            {
+                return false;
+            }
+
+            left++;
+            right--;
+        }
+        return true;
+    }
+};
