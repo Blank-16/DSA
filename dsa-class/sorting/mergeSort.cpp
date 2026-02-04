@@ -1,13 +1,14 @@
 #include <iostream>
+#include <vector>
 using namespace std;
 
-void merge(int arr[], int left, int mid, int right)
+void merge(vector<int> &arr, int left, int mid, int right)
 {
     int n1 = mid - left + 1;
     int n2 = right - mid;
 
-    int L[n1], R[n2];
-
+    vector<int> L(n1), R(n2);
+ 
     for (int i = 0; i < n1; i++)
     {
         L[i] = arr[left + i];
@@ -49,7 +50,7 @@ void merge(int arr[], int left, int mid, int right)
     }
 }
 
-void mergeSort(int arr[], int left, int right)
+void mergeSort(vector<int> &arr, int left, int right)
 {
     if (left >= right)
         return;
