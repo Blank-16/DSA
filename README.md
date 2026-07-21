@@ -35,4 +35,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0322-coin-change](https://github.com/Blank-16/DSA/tree/main/0322-coin-change/) | Medium |
+## Database
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1934-confirmation-rate](https://github.com/Blank-16/DSA/tree/main/1934-confirmation-rate/) | Medium |
 <!---LeetCode Topics End-->
