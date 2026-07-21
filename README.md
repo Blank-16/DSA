@@ -7,12 +7,14 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0091-decode-ways](https://github.com/Blank-16/DSA/tree/main/0091-decode-ways/) | Medium |
+| [1143-longest-common-subsequence](https://github.com/Blank-16/DSA/tree/main/1143-longest-common-subsequence/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0091-decode-ways](https://github.com/Blank-16/DSA/tree/main/0091-decode-ways/) | Medium |
 | [0322-coin-change](https://github.com/Blank-16/DSA/tree/main/0322-coin-change/) | Medium |
 | [0518-coin-change-ii](https://github.com/Blank-16/DSA/tree/main/0518-coin-change-ii/) | Medium |
+| [1143-longest-common-subsequence](https://github.com/Blank-16/DSA/tree/main/1143-longest-common-subsequence/) | Medium |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
