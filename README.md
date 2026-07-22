@@ -27,10 +27,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1584-min-cost-to-connect-all-points](https://github.com/Blank-16/DSA/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
+| [2685-count-the-number-of-complete-components](https://github.com/Blank-16/DSA/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1584-min-cost-to-connect-all-points](https://github.com/Blank-16/DSA/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
+| [2685-count-the-number-of-complete-components](https://github.com/Blank-16/DSA/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 ## Minimum Spanning Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -39,8 +41,13 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0322-coin-change](https://github.com/Blank-16/DSA/tree/main/0322-coin-change/) | Medium |
+| [2685-count-the-number-of-complete-components](https://github.com/Blank-16/DSA/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1934-confirmation-rate](https://github.com/Blank-16/DSA/tree/main/1934-confirmation-rate/) | Medium |
+## Depth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2685-count-the-number-of-complete-components](https://github.com/Blank-16/DSA/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 <!---LeetCode Topics End-->
