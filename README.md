@@ -12,6 +12,7 @@
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0070-climbing-stairs](https://github.com/Blank-16/DSA/tree/main/0070-climbing-stairs/) | Easy |
 | [0091-decode-ways](https://github.com/Blank-16/DSA/tree/main/0091-decode-ways/) | Medium |
 | [0322-coin-change](https://github.com/Blank-16/DSA/tree/main/0322-coin-change/) | Medium |
 | [0518-coin-change-ii](https://github.com/Blank-16/DSA/tree/main/0518-coin-change-ii/) | Medium |
@@ -50,4 +51,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2685-count-the-number-of-complete-components](https://github.com/Blank-16/DSA/tree/main/2685-count-the-number-of-complete-components/) | Medium |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0070-climbing-stairs](https://github.com/Blank-16/DSA/tree/main/0070-climbing-stairs/) | Easy |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0070-climbing-stairs](https://github.com/Blank-16/DSA/tree/main/0070-climbing-stairs/) | Easy |
 <!---LeetCode Topics End-->
