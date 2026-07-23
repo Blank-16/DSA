@@ -15,6 +15,7 @@
 | [0070-climbing-stairs](https://github.com/Blank-16/DSA/tree/main/0070-climbing-stairs/) | Easy |
 | [0091-decode-ways](https://github.com/Blank-16/DSA/tree/main/0091-decode-ways/) | Medium |
 | [0198-house-robber](https://github.com/Blank-16/DSA/tree/main/0198-house-robber/) | Medium |
+| [0279-perfect-squares](https://github.com/Blank-16/DSA/tree/main/0279-perfect-squares/) | Medium |
 | [0322-coin-change](https://github.com/Blank-16/DSA/tree/main/0322-coin-change/) | Medium |
 | [0518-coin-change-ii](https://github.com/Blank-16/DSA/tree/main/0518-coin-change-ii/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/Blank-16/DSA/tree/main/0746-min-cost-climbing-stairs/) | Easy |
@@ -45,6 +46,7 @@
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0279-perfect-squares](https://github.com/Blank-16/DSA/tree/main/0279-perfect-squares/) | Medium |
 | [0322-coin-change](https://github.com/Blank-16/DSA/tree/main/0322-coin-change/) | Medium |
 | [2685-count-the-number-of-complete-components](https://github.com/Blank-16/DSA/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 ## Database
@@ -59,6 +61,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/Blank-16/DSA/tree/main/0070-climbing-stairs/) | Easy |
+| [0279-perfect-squares](https://github.com/Blank-16/DSA/tree/main/0279-perfect-squares/) | Medium |
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
