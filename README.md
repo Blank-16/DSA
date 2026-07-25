@@ -47,6 +47,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0112-path-sum](https://github.com/Blank-16/DSA/tree/main/0112-path-sum/) | Easy |
+| [0226-invert-binary-tree](https://github.com/Blank-16/DSA/tree/main/0226-invert-binary-tree/) | Easy |
 | [0279-perfect-squares](https://github.com/Blank-16/DSA/tree/main/0279-perfect-squares/) | Medium |
 | [0322-coin-change](https://github.com/Blank-16/DSA/tree/main/0322-coin-change/) | Medium |
 | [2685-count-the-number-of-complete-components](https://github.com/Blank-16/DSA/tree/main/2685-count-the-number-of-complete-components/) | Medium |
@@ -59,6 +60,7 @@
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Blank-16/DSA/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0112-path-sum](https://github.com/Blank-16/DSA/tree/main/0112-path-sum/) | Easy |
+| [0226-invert-binary-tree](https://github.com/Blank-16/DSA/tree/main/0226-invert-binary-tree/) | Easy |
 | [2685-count-the-number-of-complete-components](https://github.com/Blank-16/DSA/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 ## Math
 | Problem Name | Difficulty |
@@ -78,9 +80,11 @@
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Blank-16/DSA/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0112-path-sum](https://github.com/Blank-16/DSA/tree/main/0112-path-sum/) | Easy |
+| [0226-invert-binary-tree](https://github.com/Blank-16/DSA/tree/main/0226-invert-binary-tree/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Blank-16/DSA/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0112-path-sum](https://github.com/Blank-16/DSA/tree/main/0112-path-sum/) | Easy |
+| [0226-invert-binary-tree](https://github.com/Blank-16/DSA/tree/main/0226-invert-binary-tree/) | Easy |
 <!---LeetCode Topics End-->
