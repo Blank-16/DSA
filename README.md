@@ -61,6 +61,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/Blank-16/DSA/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0112-path-sum](https://github.com/Blank-16/DSA/tree/main/0112-path-sum/) | Easy |
 | [0226-invert-binary-tree](https://github.com/Blank-16/DSA/tree/main/0226-invert-binary-tree/) | Easy |
+| [0543-diameter-of-binary-tree](https://github.com/Blank-16/DSA/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [2685-count-the-number-of-complete-components](https://github.com/Blank-16/DSA/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 ## Math
 | Problem Name | Difficulty |
@@ -81,10 +82,12 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/Blank-16/DSA/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0112-path-sum](https://github.com/Blank-16/DSA/tree/main/0112-path-sum/) | Easy |
 | [0226-invert-binary-tree](https://github.com/Blank-16/DSA/tree/main/0226-invert-binary-tree/) | Easy |
+| [0543-diameter-of-binary-tree](https://github.com/Blank-16/DSA/tree/main/0543-diameter-of-binary-tree/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Blank-16/DSA/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0112-path-sum](https://github.com/Blank-16/DSA/tree/main/0112-path-sum/) | Easy |
 | [0226-invert-binary-tree](https://github.com/Blank-16/DSA/tree/main/0226-invert-binary-tree/) | Easy |
+| [0543-diameter-of-binary-tree](https://github.com/Blank-16/DSA/tree/main/0543-diameter-of-binary-tree/) | Easy |
 <!---LeetCode Topics End-->
