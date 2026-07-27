@@ -12,6 +12,7 @@
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0062-unique-paths](https://github.com/Blank-16/DSA/tree/main/0062-unique-paths/) | Medium |
 | [0070-climbing-stairs](https://github.com/Blank-16/DSA/tree/main/0070-climbing-stairs/) | Easy |
 | [0091-decode-ways](https://github.com/Blank-16/DSA/tree/main/0091-decode-ways/) | Medium |
 | [0198-house-robber](https://github.com/Blank-16/DSA/tree/main/0198-house-robber/) | Medium |
@@ -66,6 +67,7 @@
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0062-unique-paths](https://github.com/Blank-16/DSA/tree/main/0062-unique-paths/) | Medium |
 | [0070-climbing-stairs](https://github.com/Blank-16/DSA/tree/main/0070-climbing-stairs/) | Easy |
 | [0279-perfect-squares](https://github.com/Blank-16/DSA/tree/main/0279-perfect-squares/) | Medium |
 ## Memoization
@@ -90,4 +92,8 @@
 | [0112-path-sum](https://github.com/Blank-16/DSA/tree/main/0112-path-sum/) | Easy |
 | [0226-invert-binary-tree](https://github.com/Blank-16/DSA/tree/main/0226-invert-binary-tree/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/Blank-16/DSA/tree/main/0543-diameter-of-binary-tree/) | Easy |
+## Combinatorics
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0062-unique-paths](https://github.com/Blank-16/DSA/tree/main/0062-unique-paths/) | Medium |
 <!---LeetCode Topics End-->
