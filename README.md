@@ -26,6 +26,7 @@
 | [0931-minimum-falling-path-sum](https://github.com/Blank-16/DSA/tree/main/0931-minimum-falling-path-sum/) | Medium |
 | [1092-shortest-common-supersequence](https://github.com/Blank-16/DSA/tree/main/1092-shortest-common-supersequence/) | Hard |
 | [1143-longest-common-subsequence](https://github.com/Blank-16/DSA/tree/main/1143-longest-common-subsequence/) | Medium |
+| [1463-cherry-pickup-ii](https://github.com/Blank-16/DSA/tree/main/1463-cherry-pickup-ii/) | Hard |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -37,6 +38,7 @@
 | [0741-cherry-pickup](https://github.com/Blank-16/DSA/tree/main/0741-cherry-pickup/) | Hard |
 | [0746-min-cost-climbing-stairs](https://github.com/Blank-16/DSA/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [0931-minimum-falling-path-sum](https://github.com/Blank-16/DSA/tree/main/0931-minimum-falling-path-sum/) | Medium |
+| [1463-cherry-pickup-ii](https://github.com/Blank-16/DSA/tree/main/1463-cherry-pickup-ii/) | Hard |
 | [1584-min-cost-to-connect-all-points](https://github.com/Blank-16/DSA/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
@@ -110,4 +112,5 @@
 | [0064-minimum-path-sum](https://github.com/Blank-16/DSA/tree/main/0064-minimum-path-sum/) | Medium |
 | [0741-cherry-pickup](https://github.com/Blank-16/DSA/tree/main/0741-cherry-pickup/) | Hard |
 | [0931-minimum-falling-path-sum](https://github.com/Blank-16/DSA/tree/main/0931-minimum-falling-path-sum/) | Medium |
+| [1463-cherry-pickup-ii](https://github.com/Blank-16/DSA/tree/main/1463-cherry-pickup-ii/) | Hard |
 <!---LeetCode Topics End-->
