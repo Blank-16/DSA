@@ -13,6 +13,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0062-unique-paths](https://github.com/Blank-16/DSA/tree/main/0062-unique-paths/) | Medium |
+| [0063-unique-paths-ii](https://github.com/Blank-16/DSA/tree/main/0063-unique-paths-ii/) | Medium |
 | [0064-minimum-path-sum](https://github.com/Blank-16/DSA/tree/main/0064-minimum-path-sum/) | Medium |
 | [0070-climbing-stairs](https://github.com/Blank-16/DSA/tree/main/0070-climbing-stairs/) | Easy |
 | [0091-decode-ways](https://github.com/Blank-16/DSA/tree/main/0091-decode-ways/) | Medium |
@@ -30,6 +31,7 @@
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0063-unique-paths-ii](https://github.com/Blank-16/DSA/tree/main/0063-unique-paths-ii/) | Medium |
 | [0064-minimum-path-sum](https://github.com/Blank-16/DSA/tree/main/0064-minimum-path-sum/) | Medium |
 | [0120-triangle](https://github.com/Blank-16/DSA/tree/main/0120-triangle/) | Medium |
 | [0198-house-robber](https://github.com/Blank-16/DSA/tree/main/0198-house-robber/) | Medium |
@@ -109,6 +111,7 @@
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0063-unique-paths-ii](https://github.com/Blank-16/DSA/tree/main/0063-unique-paths-ii/) | Medium |
 | [0064-minimum-path-sum](https://github.com/Blank-16/DSA/tree/main/0064-minimum-path-sum/) | Medium |
 | [0741-cherry-pickup](https://github.com/Blank-16/DSA/tree/main/0741-cherry-pickup/) | Hard |
 | [0931-minimum-falling-path-sum](https://github.com/Blank-16/DSA/tree/main/0931-minimum-falling-path-sum/) | Medium |
