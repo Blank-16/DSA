@@ -42,6 +42,7 @@
 | [0931-minimum-falling-path-sum](https://github.com/Blank-16/DSA/tree/main/0931-minimum-falling-path-sum/) | Medium |
 | [1463-cherry-pickup-ii](https://github.com/Blank-16/DSA/tree/main/1463-cherry-pickup-ii/) | Hard |
 | [1584-min-cost-to-connect-all-points](https://github.com/Blank-16/DSA/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/Blank-16/DSA/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -116,4 +117,8 @@
 | [0741-cherry-pickup](https://github.com/Blank-16/DSA/tree/main/0741-cherry-pickup/) | Hard |
 | [0931-minimum-falling-path-sum](https://github.com/Blank-16/DSA/tree/main/0931-minimum-falling-path-sum/) | Medium |
 | [1463-cherry-pickup-ii](https://github.com/Blank-16/DSA/tree/main/1463-cherry-pickup-ii/) | Hard |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/Blank-16/DSA/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 <!---LeetCode Topics End-->
