@@ -69,6 +69,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1934-confirmation-rate](https://github.com/Blank-16/DSA/tree/main/1934-confirmation-rate/) | Medium |
+| [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/Blank-16/DSA/tree/main/2356-number-of-unique-subjects-taught-by-each-teacher/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
