@@ -68,6 +68,7 @@
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1757-recyclable-and-low-fat-products](https://github.com/Blank-16/DSA/tree/main/1757-recyclable-and-low-fat-products/) | Easy |
 | [1934-confirmation-rate](https://github.com/Blank-16/DSA/tree/main/1934-confirmation-rate/) | Medium |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/Blank-16/DSA/tree/main/2356-number-of-unique-subjects-taught-by-each-teacher/) | Easy |
 ## Depth-First Search
