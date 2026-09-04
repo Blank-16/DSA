@@ -31,6 +31,7 @@
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0016-3sum-closest](https://github.com/Blank-16/DSA/tree/main/0016-3sum-closest/) | Medium |
 | [0063-unique-paths-ii](https://github.com/Blank-16/DSA/tree/main/0063-unique-paths-ii/) | Medium |
 | [0064-minimum-path-sum](https://github.com/Blank-16/DSA/tree/main/0064-minimum-path-sum/) | Medium |
 | [0120-triangle](https://github.com/Blank-16/DSA/tree/main/0120-triangle/) | Medium |
@@ -138,4 +139,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3903-smallest-stable-index-i](https://github.com/Blank-16/DSA/tree/main/3903-smallest-stable-index-i/) | Easy |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0016-3sum-closest](https://github.com/Blank-16/DSA/tree/main/0016-3sum-closest/) | Medium |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0016-3sum-closest](https://github.com/Blank-16/DSA/tree/main/0016-3sum-closest/) | Medium |
 <!---LeetCode Topics End-->
