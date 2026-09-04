@@ -43,6 +43,7 @@
 | [1463-cherry-pickup-ii](https://github.com/Blank-16/DSA/tree/main/1463-cherry-pickup-ii/) | Hard |
 | [1584-min-cost-to-connect-all-points](https://github.com/Blank-16/DSA/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Blank-16/DSA/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
+| [3875-construct-uniform-parity-array-i](https://github.com/Blank-16/DSA/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -93,6 +94,7 @@
 | [0062-unique-paths](https://github.com/Blank-16/DSA/tree/main/0062-unique-paths/) | Medium |
 | [0070-climbing-stairs](https://github.com/Blank-16/DSA/tree/main/0070-climbing-stairs/) | Easy |
 | [0279-perfect-squares](https://github.com/Blank-16/DSA/tree/main/0279-perfect-squares/) | Medium |
+| [3875-construct-uniform-parity-array-i](https://github.com/Blank-16/DSA/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
