@@ -44,6 +44,7 @@
 | [1584-min-cost-to-connect-all-points](https://github.com/Blank-16/DSA/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Blank-16/DSA/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/Blank-16/DSA/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
+| [3903-smallest-stable-index-i](https://github.com/Blank-16/DSA/tree/main/3903-smallest-stable-index-i/) | Easy |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -133,4 +134,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Blank-16/DSA/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3903-smallest-stable-index-i](https://github.com/Blank-16/DSA/tree/main/3903-smallest-stable-index-i/) | Easy |
 <!---LeetCode Topics End-->
