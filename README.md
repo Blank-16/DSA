@@ -7,6 +7,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0091-decode-ways](https://github.com/Blank-16/DSA/tree/main/0091-decode-ways/) | Medium |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Blank-16/DSA/tree/main/0395-longest-substring-with-at-least-k-repeating-characters/) | Medium |
 | [1092-shortest-common-supersequence](https://github.com/Blank-16/DSA/tree/main/1092-shortest-common-supersequence/) | Hard |
 | [1143-longest-common-subsequence](https://github.com/Blank-16/DSA/tree/main/1143-longest-common-subsequence/) | Medium |
 ## Dynamic Programming
@@ -147,4 +148,16 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0016-3sum-closest](https://github.com/Blank-16/DSA/tree/main/0016-3sum-closest/) | Medium |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Blank-16/DSA/tree/main/0395-longest-substring-with-at-least-k-repeating-characters/) | Medium |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Blank-16/DSA/tree/main/0395-longest-substring-with-at-least-k-repeating-characters/) | Medium |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Blank-16/DSA/tree/main/0395-longest-substring-with-at-least-k-repeating-characters/) | Medium |
 <!---LeetCode Topics End-->
