@@ -22,6 +22,7 @@
 | [0198-house-robber](https://github.com/Blank-16/DSA/tree/main/0198-house-robber/) | Medium |
 | [0279-perfect-squares](https://github.com/Blank-16/DSA/tree/main/0279-perfect-squares/) | Medium |
 | [0322-coin-change](https://github.com/Blank-16/DSA/tree/main/0322-coin-change/) | Medium |
+| [0357-count-numbers-with-unique-digits](https://github.com/Blank-16/DSA/tree/main/0357-count-numbers-with-unique-digits/) | Medium |
 | [0518-coin-change-ii](https://github.com/Blank-16/DSA/tree/main/0518-coin-change-ii/) | Medium |
 | [0741-cherry-pickup](https://github.com/Blank-16/DSA/tree/main/0741-cherry-pickup/) | Hard |
 | [0746-min-cost-climbing-stairs](https://github.com/Blank-16/DSA/tree/main/0746-min-cost-climbing-stairs/) | Easy |
@@ -97,6 +98,7 @@
 | [0062-unique-paths](https://github.com/Blank-16/DSA/tree/main/0062-unique-paths/) | Medium |
 | [0070-climbing-stairs](https://github.com/Blank-16/DSA/tree/main/0070-climbing-stairs/) | Easy |
 | [0279-perfect-squares](https://github.com/Blank-16/DSA/tree/main/0279-perfect-squares/) | Medium |
+| [0357-count-numbers-with-unique-digits](https://github.com/Blank-16/DSA/tree/main/0357-count-numbers-with-unique-digits/) | Medium |
 | [3875-construct-uniform-parity-array-i](https://github.com/Blank-16/DSA/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 ## Memoization
 | Problem Name | Difficulty |
@@ -160,4 +162,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Blank-16/DSA/tree/main/0395-longest-substring-with-at-least-k-repeating-characters/) | Medium |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0357-count-numbers-with-unique-digits](https://github.com/Blank-16/DSA/tree/main/0357-count-numbers-with-unique-digits/) | Medium |
 <!---LeetCode Topics End-->
