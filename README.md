@@ -10,6 +10,7 @@
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Blank-16/DSA/tree/main/0395-longest-substring-with-at-least-k-repeating-characters/) | Medium |
 | [1092-shortest-common-supersequence](https://github.com/Blank-16/DSA/tree/main/1092-shortest-common-supersequence/) | Hard |
 | [1143-longest-common-subsequence](https://github.com/Blank-16/DSA/tree/main/1143-longest-common-subsequence/) | Medium |
+| [3863-minimum-operations-to-sort-a-string](https://github.com/Blank-16/DSA/tree/main/3863-minimum-operations-to-sort-a-string/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
