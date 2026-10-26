@@ -43,6 +43,7 @@
 | [0741-cherry-pickup](https://github.com/Blank-16/DSA/tree/main/0741-cherry-pickup/) | Hard |
 | [0746-min-cost-climbing-stairs](https://github.com/Blank-16/DSA/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [0931-minimum-falling-path-sum](https://github.com/Blank-16/DSA/tree/main/0931-minimum-falling-path-sum/) | Medium |
+| [1004-max-consecutive-ones-iii](https://github.com/Blank-16/DSA/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1463-cherry-pickup-ii](https://github.com/Blank-16/DSA/tree/main/1463-cherry-pickup-ii/) | Hard |
 | [1584-min-cost-to-connect-all-points](https://github.com/Blank-16/DSA/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Blank-16/DSA/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
@@ -141,6 +142,7 @@
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/Blank-16/DSA/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [3903-smallest-stable-index-i](https://github.com/Blank-16/DSA/tree/main/3903-smallest-stable-index-i/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -162,8 +164,13 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Blank-16/DSA/tree/main/0395-longest-substring-with-at-least-k-repeating-characters/) | Medium |
+| [1004-max-consecutive-ones-iii](https://github.com/Blank-16/DSA/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0357-count-numbers-with-unique-digits](https://github.com/Blank-16/DSA/tree/main/0357-count-numbers-with-unique-digits/) | Medium |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/Blank-16/DSA/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 <!---LeetCode Topics End-->
