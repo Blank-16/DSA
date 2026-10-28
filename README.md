@@ -31,6 +31,7 @@
 | [1092-shortest-common-supersequence](https://github.com/Blank-16/DSA/tree/main/1092-shortest-common-supersequence/) | Hard |
 | [1143-longest-common-subsequence](https://github.com/Blank-16/DSA/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1463-cherry-pickup-ii](https://github.com/Blank-16/DSA/tree/main/1463-cherry-pickup-ii/) | Hard |
+| [3883-count-non-decreasing-arrays-with-given-digit-sums](https://github.com/Blank-16/DSA/tree/main/3883-count-non-decreasing-arrays-with-given-digit-sums/) | Hard |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -49,6 +50,7 @@
 | [1584-min-cost-to-connect-all-points](https://github.com/Blank-16/DSA/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Blank-16/DSA/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/Blank-16/DSA/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
+| [3883-count-non-decreasing-arrays-with-given-digit-sums](https://github.com/Blank-16/DSA/tree/main/3883-count-non-decreasing-arrays-with-given-digit-sums/) | Hard |
 | [3903-smallest-stable-index-i](https://github.com/Blank-16/DSA/tree/main/3903-smallest-stable-index-i/) | Easy |
 ## Union-Find
 | Problem Name | Difficulty |
@@ -144,6 +146,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1004-max-consecutive-ones-iii](https://github.com/Blank-16/DSA/tree/main/1004-max-consecutive-ones-iii/) | Medium |
+| [3883-count-non-decreasing-arrays-with-given-digit-sums](https://github.com/Blank-16/DSA/tree/main/3883-count-non-decreasing-arrays-with-given-digit-sums/) | Hard |
 | [3903-smallest-stable-index-i](https://github.com/Blank-16/DSA/tree/main/3903-smallest-stable-index-i/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
