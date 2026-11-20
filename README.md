@@ -7,6 +7,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0091-decode-ways](https://github.com/Blank-16/DSA/tree/main/0091-decode-ways/) | Medium |
+| [0387-first-unique-character-in-a-string](https://github.com/Blank-16/DSA/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Blank-16/DSA/tree/main/0395-longest-substring-with-at-least-k-repeating-characters/) | Medium |
 | [1092-shortest-common-supersequence](https://github.com/Blank-16/DSA/tree/main/1092-shortest-common-supersequence/) | Hard |
 | [1143-longest-common-subsequence](https://github.com/Blank-16/DSA/tree/main/1143-longest-common-subsequence/) | Medium |
@@ -159,6 +160,7 @@
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Blank-16/DSA/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Blank-16/DSA/tree/main/0395-longest-substring-with-at-least-k-repeating-characters/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
@@ -177,4 +179,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1004-max-consecutive-ones-iii](https://github.com/Blank-16/DSA/tree/main/1004-max-consecutive-ones-iii/) | Medium |
+## Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Blank-16/DSA/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Blank-16/DSA/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 <!---LeetCode Topics End-->
