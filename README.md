@@ -50,6 +50,7 @@
 | [1463-cherry-pickup-ii](https://github.com/Blank-16/DSA/tree/main/1463-cherry-pickup-ii/) | Hard |
 | [1584-min-cost-to-connect-all-points](https://github.com/Blank-16/DSA/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Blank-16/DSA/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Blank-16/DSA/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/Blank-16/DSA/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3883-count-non-decreasing-arrays-with-given-digit-sums](https://github.com/Blank-16/DSA/tree/main/3883-count-non-decreasing-arrays-with-given-digit-sums/) | Hard |
 | [3903-smallest-stable-index-i](https://github.com/Blank-16/DSA/tree/main/3903-smallest-stable-index-i/) | Easy |
@@ -104,6 +105,7 @@
 | [0070-climbing-stairs](https://github.com/Blank-16/DSA/tree/main/0070-climbing-stairs/) | Easy |
 | [0279-perfect-squares](https://github.com/Blank-16/DSA/tree/main/0279-perfect-squares/) | Medium |
 | [0357-count-numbers-with-unique-digits](https://github.com/Blank-16/DSA/tree/main/0357-count-numbers-with-unique-digits/) | Medium |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Blank-16/DSA/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/Blank-16/DSA/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 ## Memoization
 | Problem Name | Difficulty |
@@ -171,6 +173,7 @@
 | ------- | ------- |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Blank-16/DSA/tree/main/0395-longest-substring-with-at-least-k-repeating-characters/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/Blank-16/DSA/tree/main/1004-max-consecutive-ones-iii/) | Medium |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Blank-16/DSA/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -187,4 +190,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Blank-16/DSA/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+## Enumeration
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Blank-16/DSA/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
+## Number Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Blank-16/DSA/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 <!---LeetCode Topics End-->
