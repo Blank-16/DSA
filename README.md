@@ -105,6 +105,7 @@
 | [0070-climbing-stairs](https://github.com/Blank-16/DSA/tree/main/0070-climbing-stairs/) | Easy |
 | [0279-perfect-squares](https://github.com/Blank-16/DSA/tree/main/0279-perfect-squares/) | Medium |
 | [0357-count-numbers-with-unique-digits](https://github.com/Blank-16/DSA/tree/main/0357-count-numbers-with-unique-digits/) | Medium |
+| [3360-stone-removal-game](https://github.com/Blank-16/DSA/tree/main/3360-stone-removal-game/) | Easy |
 | [3411-maximum-subarray-with-equal-products](https://github.com/Blank-16/DSA/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/Blank-16/DSA/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 ## Memoization
@@ -145,6 +146,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Blank-16/DSA/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
+| [3360-stone-removal-game](https://github.com/Blank-16/DSA/tree/main/3360-stone-removal-game/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
